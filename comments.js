@@ -1,5 +1,4 @@
-// create web server
-// create a web server that listens for requests on port 8080
+// Create web server
 var http = require('http');
 var fs = require('fs');
 var url = require('url');
